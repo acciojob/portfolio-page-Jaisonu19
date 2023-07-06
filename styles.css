@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+img{
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    margin-left: 28%;
+}
+h1{
+    text-align: center;
+}
+a{
+    padding-left: 44%;
+}
+section{
+    margin-left: 20%;
+}
